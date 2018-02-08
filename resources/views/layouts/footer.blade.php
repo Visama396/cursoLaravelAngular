@@ -1,0 +1,1 @@
+<p class="centered"><small>© 2017 - 2018 By Visama 美久多</small></p>
