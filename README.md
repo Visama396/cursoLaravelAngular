@@ -1,2 +1,2 @@
-# CursoLaravelAngular
-Curso de aprendizaje de Laravel y Angular
+# Laravel & Angular Course (Spanish)
+Laravel and Angular Course
